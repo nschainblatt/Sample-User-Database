@@ -1,0 +1,13 @@
+input {
+    padding: 1rem;
+    width: 15rem;
+    background: rgb(167, 242, 245);
+    border-radius: 0.5rem;
+    text-align: center;
+  }
+
+  input::placeholder {
+    color: #1f242a;
+    font-weight: 800;
+    font-family: sans-serif;
+  }
