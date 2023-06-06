@@ -2,9 +2,6 @@ import React from "react";
 import Card from './Card';
 
 const CardList = ({ filteredSearch }) => {
-    if (true) {
-        throw new Error('NOOO!');
-    }
 
     return (
         <div className='cardList'>
